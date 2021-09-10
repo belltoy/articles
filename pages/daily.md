@@ -5,4 +5,8 @@
   ```erl 
   -type foo(): any(). 
   ```
+-
+  ```clojure
+    (println "Hello world!")
+  ```
 - [[tomorrow]]
